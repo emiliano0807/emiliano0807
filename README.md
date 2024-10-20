@@ -1,4 +1,4 @@
-mi# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on school projects<br>👯 I’m looking to collaborate on more important projects<br>🤝 I’m looking for help with teachers and classmate<br>🌱 I’m currently learning C language, Javascript, Java, Python
 
 
